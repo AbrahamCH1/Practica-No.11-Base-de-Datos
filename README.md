@@ -200,14 +200,15 @@ Serial.println();
 9. Abrir el programa **XAMPP**.
 
 10. Dar **clik* en los módulos **Apache* y **MySQL* y dar click en **admin*.
-![]()
+![](https://github.com/AbrahamCH1/Practica-No.11-Base-de-Datos/blob/main/Captura%20de%20pantalla%20(376).png?raw=true)
 
 11. Crear una base de datos como la que se muestra en la imagen.
-![]()
+![](https://github.com/AbrahamCH1/Practica-No.11-Base-de-Datos/blob/main/localhost%20_%20127.0.0.1%20_%20tamulbatm7%20_%20tamulba7%20_%20phpMyAdmin%205.2.1%20-%20Google%20Chrome%2016_06_2023%2008_50_24%20a.%20m..png?raw=true)
 
 12. En Node-RED agregar la herramienta de **MySQL* y una función. Agregar el código y la información que se muestra en las imágenes.
-![]()
-![]()
+![](https://github.com/AbrahamCH1/Practica-No.11-Base-de-Datos/blob/main/Captura%20de%20pantalla%20(373).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.11-Base-de-Datos/blob/main/Captura%20de%20pantalla%20(374).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.11-Base-de-Datos/blob/main/Captura%20de%20pantalla%20(375).png?raw=true)
 
 ### Instrucciones de operación
 1. Iniciar simulador.
@@ -218,8 +219,8 @@ Serial.println();
 7. Visualizar los datos en **XAMPP**. 
 ## Resultados
 Cuando haya funcionado, se podrán observar los valores en **XAMPP**
-![](https://github.com/AbrahamCH1/Practica-No.9-Node-RED-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(334).png?raw=true)
-![]()
+![](https://github.com/AbrahamCH1/Practica-No.11-Base-de-Datos/blob/main/Captura%20de%20pantalla%20(372).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.11-Base-de-Datos/blob/main/Captura%20de%20pantalla%20(371).png?raw=true)
 
 
 # Créditos
